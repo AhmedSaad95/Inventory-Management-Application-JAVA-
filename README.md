@@ -20,7 +20,7 @@ You can consult my report (in French) via this link :
 [academia.edu/37247596/Application_JAVA_Vente_et_gestion_de_stock](https://www.academia.edu/37247596/Application_JAVA_Vente_et_gestion_de_stock)
 
 ## Some capture :
-### Login & Signin
+### Login / Register
 <img src="https://github.com/AhmedSaad95/Inventory-Management-Application-JAVA-/blob/master/img/p1.PNG" width="400"> <img src="https://github.com/AhmedSaad95/Inventory-Management-Application-JAVA-/blob/master/img/p0.PNG" width="400">
 ### Admin 
 <img src="https://github.com/AhmedSaad95/Inventory-Management-Application-JAVA-/blob/master/img/p5.PNG" width="400"> <img src="https://github.com/AhmedSaad95/Inventory-Management-Application-JAVA-/blob/master/img/p6.PNG" width="400">
